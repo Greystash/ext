@@ -23,14 +23,14 @@ pipenv install
 ./manage.py createsuperuser
 ./manage.py runserver
 ```
-Now server is running on localhost://8000
+Now server is running on localhost:8000
 - Move back to 'ext' folder in a new shell window
 ```sh
 cd ex_front
 npm i
 npm start
 ```
-Now render server is running on localhost://3000
+Now render server is running on localhost:3000
 
 - Navigate to [localhost](http://localhost:3000) in your browser
 
