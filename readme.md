@@ -1,6 +1,6 @@
 # TZ News blog
 
-## Implemented
+## Implemented over requirements
 - Basic custom authorization + authorization backend
 - Basic roles management with admin's permission
 - Extended filtering
