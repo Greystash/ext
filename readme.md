@@ -16,7 +16,7 @@ OR
 ```sh
 pipenv install
 ```
-- Activate preferable shell
+- Activate preferable env manager
 ```sh
 ./manage.py makemigrations
 ./manage.py migrate
