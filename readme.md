@@ -20,6 +20,7 @@ pipenv install
 ```sh
 ./manage.py makemigrations
 ./manage.py migrate
+./manage.py createsuperuser
 ./manage.py runserver
 ```
 Now server is running on localhost://8000
